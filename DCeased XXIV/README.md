@@ -1,6 +1,6 @@
 Through enc.py, i know how flag was killed:
 
-**flag.png[rgba]** `(xor)`  **Rrgba** -> **out.png[rgba]**
+***flag.png[rgba]** `(xor)`  **Rrgba** -> **out.png[rgba]***
 
 <sub>**Rrgba** : pseudo-random rgba number generated from:</sub>
 
